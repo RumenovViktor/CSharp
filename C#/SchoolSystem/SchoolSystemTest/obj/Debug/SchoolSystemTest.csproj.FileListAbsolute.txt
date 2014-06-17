@@ -1,0 +1,7 @@
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\bin\Debug\SchoolSystemTest.dll
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\bin\Debug\SchoolSystemTest.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\bin\Debug\SchoolSystem.exe
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\bin\Debug\SchoolSystem.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\obj\Debug\SchoolSystemTest.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\obj\Debug\SchoolSystemTest.dll
+c:\users\viktor\documents\visual studio 2012\Projects\SchoolSystem\SchoolSystemTest\obj\Debug\SchoolSystemTest.pdb
