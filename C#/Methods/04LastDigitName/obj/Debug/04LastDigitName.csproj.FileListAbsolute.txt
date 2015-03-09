@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\04LastDigitName\bin\Debug\04LastDigitName.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\04LastDigitName\bin\Debug\04LastDigitName.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\04LastDigitName\bin\Debug\04LastDigitName.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\04LastDigitName\obj\Debug\04LastDigitName.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\04LastDigitName\obj\Debug\04LastDigitName.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\bin\Debug\08.AddingNumbers.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\bin\Debug\08.AddingNumbers.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\bin\Debug\08.AddingNumbers.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\obj\Debug\08.AddingNumbers.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\obj\Debug\08.AddingNumbers.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\08.AddingNumbers\obj\Debug\08.AddingNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\bin\Debug\13.CoupleOfTasks.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\bin\Debug\13.CoupleOfTasks.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\bin\Debug\13.CoupleOfTasks.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\obj\Debug\13.CoupleOfTasks.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\obj\Debug\13.CoupleOfTasks.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\13.CoupleOfTasks\obj\Debug\13.CoupleOfTasks.pdb

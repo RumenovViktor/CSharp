@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\bin\Debug\09.MaxElementInAPortion.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\bin\Debug\09.MaxElementInAPortion.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\bin\Debug\09.MaxElementInAPortion.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\obj\Debug\09.MaxElementInAPortion.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\obj\Debug\09.MaxElementInAPortion.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\09.MaxElementInAPortion\obj\Debug\09.MaxElementInAPortion.pdb

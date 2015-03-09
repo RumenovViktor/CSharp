@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\bin\Debug\11.AddPolinomials.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\bin\Debug\11.AddPolinomials.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\bin\Debug\11.AddPolinomials.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\obj\Debug\11.AddPolinomials.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\obj\Debug\11.AddPolinomials.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\11.AddPolinomials\obj\Debug\11.AddPolinomials.pdb

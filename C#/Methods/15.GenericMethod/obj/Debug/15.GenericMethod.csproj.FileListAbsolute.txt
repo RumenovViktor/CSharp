@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\bin\Debug\15.GenericMethod.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\bin\Debug\15.GenericMethod.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\bin\Debug\15.GenericMethod.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\obj\Debug\15.GenericMethod.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\obj\Debug\15.GenericMethod.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\15.GenericMethod\obj\Debug\15.GenericMethod.csprojResolveAssemblyReference.cache

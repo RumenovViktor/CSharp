@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\bin\Debug\06.IndexOfElementBiggerThanItsNeighbors.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\bin\Debug\06.IndexOfElementBiggerThanItsNeighbors.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\bin\Debug\06.IndexOfElementBiggerThanItsNeighbors.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\obj\Debug\06.IndexOfElementBiggerThanItsNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\obj\Debug\06.IndexOfElementBiggerThanItsNeighbors.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\06.IndexOfElementBiggerThanItsNeighbors\obj\Debug\06.IndexOfElementBiggerThanItsNeighbors.pdb

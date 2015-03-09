@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\bin\Debug\04NumberInArray.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\bin\Debug\04NumberInArray.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\bin\Debug\04NumberInArray.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\obj\Debug\04NumberInArray.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\obj\Debug\04NumberInArray.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\04NumberInArray\obj\Debug\04NumberInArray.pdb

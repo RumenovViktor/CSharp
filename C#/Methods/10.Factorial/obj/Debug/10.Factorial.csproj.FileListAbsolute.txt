@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\bin\Debug\10.Factorial.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\bin\Debug\10.Factorial.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\bin\Debug\10.Factorial.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\obj\Debug\10.Factorial.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\obj\Debug\10.Factorial.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\10.Factorial\obj\Debug\10.Factorial.csprojResolveAssemblyReference.cache

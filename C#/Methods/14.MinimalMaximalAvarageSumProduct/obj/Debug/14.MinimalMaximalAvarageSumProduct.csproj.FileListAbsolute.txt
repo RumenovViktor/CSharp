@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\bin\Debug\14.MinimalMaximalAvarageSumProduct.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\bin\Debug\14.MinimalMaximalAvarageSumProduct.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\bin\Debug\14.MinimalMaximalAvarageSumProduct.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\obj\Debug\14.MinimalMaximalAvarageSumProduct.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\obj\Debug\14.MinimalMaximalAvarageSumProduct.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MethodsTasks\14.MinimalMaximalAvarageSumProduct\obj\Debug\14.MinimalMaximalAvarageSumProduct.pdb

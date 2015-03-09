@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\bin\Debug\MethodsTasks.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\bin\Debug\MethodsTasks.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\bin\Debug\MethodsTasks.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\obj\Debug\01HelloName.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\obj\Debug\MethodsTasks.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MethodsTasks\MethodsTasks\obj\Debug\MethodsTasks.pdb
