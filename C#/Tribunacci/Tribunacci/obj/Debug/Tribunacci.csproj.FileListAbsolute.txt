@@ -1,0 +1,9 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\bin\Debug\Tribunacci.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\bin\Debug\Tribunacci.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\bin\Debug\Tribunacci.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\obj\Debug\Tribunacci.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\obj\Debug\Tribunacci.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Tribunacci\Tribunacci\obj\Debug\Tribunacci.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\Tribunacci\Tribunacci\bin\Debug\Tribunacci.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\Tribunacci\Tribunacci\obj\Debug\Tribunacci.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\Tribunacci\Tribunacci\obj\Debug\Tribunacci.pdb

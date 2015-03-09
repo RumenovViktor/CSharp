@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribunacciTriangle", "TribunacciTriangle\TribunacciTriangle.csproj", "{7841DA67-8346-4C3D-AAF4-A7D44F67499C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asd", "asd\asd.csproj", "{9EF723DD-A159-4C23-B898-3C0E22294EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7841DA67-8346-4C3D-AAF4-A7D44F67499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7841DA67-8346-4C3D-AAF4-A7D44F67499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7841DA67-8346-4C3D-AAF4-A7D44F67499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7841DA67-8346-4C3D-AAF4-A7D44F67499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF723DD-A159-4C23-B898-3C0E22294EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF723DD-A159-4C23-B898-3C0E22294EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF723DD-A159-4C23-B898-3C0E22294EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF723DD-A159-4C23-B898-3C0E22294EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

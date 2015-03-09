@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Trapezoid\Trapezoid\bin\Debug\Trapezoid.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Trapezoid\Trapezoid\bin\Debug\Trapezoid.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Trapezoid\Trapezoid\bin\Debug\Trapezoid.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Trapezoid\Trapezoid\obj\Debug\Trapezoid.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Trapezoid\Trapezoid\obj\Debug\Trapezoid.pdb

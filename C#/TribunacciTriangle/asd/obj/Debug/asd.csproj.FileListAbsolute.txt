@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2012\Projects\TribunacciTriangle\asd\bin\Debug\asd.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\TribunacciTriangle\asd\bin\Debug\asd.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TribunacciTriangle\asd\bin\Debug\asd.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\TribunacciTriangle\asd\obj\Debug\asd.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TribunacciTriangle\asd\obj\Debug\asd.pdb

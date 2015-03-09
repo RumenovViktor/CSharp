@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\bin\Debug\MathematicalExpression.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\bin\Debug\MathematicalExpression.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\bin\Debug\MathematicalExpression.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\obj\Debug\MathematicalExpression.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\obj\Debug\MathematicalExpression.exe
+c:\users\viktor\documents\visual studio 2012\Projects\MathematicalExpression\MathematicalExpression\obj\Debug\MathematicalExpression.pdb

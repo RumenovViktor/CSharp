@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+c:\users\viktor\documents\visual studio 2012\Projects\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

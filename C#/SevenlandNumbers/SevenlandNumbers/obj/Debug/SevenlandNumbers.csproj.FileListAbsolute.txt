@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+c:\users\viktor\documents\visual studio 2012\Projects\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

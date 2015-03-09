@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\bin\Debug\Tree.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\bin\Debug\Tree.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\bin\Debug\Tree.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\obj\Debug\Tree.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Tree\Tree\obj\Debug\Tree.pdb

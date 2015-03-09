@@ -1,0 +1,9 @@
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+c:\users\viktor\documents\visual studio 2012\Projects\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\exams\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\bin\Debug\Garden.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\bin\Debug\Garden.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\bin\Debug\Garden.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\obj\Debug\Garden.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Garden\Garden\obj\Debug\Garden.pdb

@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+c:\users\viktor\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
