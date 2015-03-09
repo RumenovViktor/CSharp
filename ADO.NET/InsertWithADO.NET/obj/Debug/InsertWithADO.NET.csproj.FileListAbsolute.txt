@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\bin\Debug\InsertWithADO.NET.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\bin\Debug\InsertWithADO.NET.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\bin\Debug\InsertWithADO.NET.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\obj\Debug\InsertWithADO.NET.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\obj\Debug\InsertWithADO.NET.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\InsertWithADO.NET\obj\Debug\InsertWithADO.NET.pdb

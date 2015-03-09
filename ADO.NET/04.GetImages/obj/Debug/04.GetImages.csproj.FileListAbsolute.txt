@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\bin\Debug\04.GetImages.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\bin\Debug\04.GetImages.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\bin\Debug\04.GetImages.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\obj\Debug\04.GetImages.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\obj\Debug\04.GetImages.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\04.GetImages\obj\Debug\04.GetImages.pdb

@@ -1,0 +1,9 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\bin\Debug\05.DisconnectedModel.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\bin\Debug\05.DisconnectedModel.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\bin\Debug\05.DisconnectedModel.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\obj\Debug\05.DisconnectedModel.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\obj\Debug\05.DisconnectedModel.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\05.DisconnectedModel\obj\Debug\05.DisconnectedModel.pdb
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\ADO.NET\05.DisconnectedModel\bin\Debug\05.DisconnectedModel.exe.config
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\ADO.NET\05.DisconnectedModel\obj\Debug\05.DisconnectedModel.exe
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\ADO.NET\05.DisconnectedModel\obj\Debug\05.DisconnectedModel.pdb

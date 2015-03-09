@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\bin\Debug\02.CategoryAndName.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\bin\Debug\02.CategoryAndName.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\bin\Debug\02.CategoryAndName.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\obj\Debug\02.CategoryAndName.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\obj\Debug\02.CategoryAndName.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\02.CategoryAndName\obj\Debug\02.CategoryAndName.pdb
