@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\21.Combinations\bin\Debug\21.Combinations.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\21.Combinations\bin\Debug\21.Combinations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\21.Combinations\bin\Debug\21.Combinations.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\21.Combinations\obj\Debug\21.Combinations.pdb

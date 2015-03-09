@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\bin\Debug\03.CompareCharacters.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\bin\Debug\03.CompareCharacters.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\bin\Debug\03.CompareCharacters.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\obj\Debug\03.CompareCharacters.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\obj\Debug\03.CompareCharacters.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\03.CompareCharacters\obj\Debug\03.CompareCharacters.pdb

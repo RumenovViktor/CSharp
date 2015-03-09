@@ -1,0 +1,6 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\bin\Debug\18.SortedInIncreasingOrder.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\bin\Debug\18.SortedInIncreasingOrder.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\bin\Debug\18.SortedInIncreasingOrder.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\obj\Debug\18.SortedInIncreasingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\obj\Debug\18.SortedInIncreasingOrder.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\18.SortedInIncreasingOrder\obj\Debug\18.SortedInIncreasingOrder.pdb

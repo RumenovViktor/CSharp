@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\bin\Debug\06.BigestSumOfKElements.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\bin\Debug\06.BigestSumOfKElements.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\bin\Debug\06.BigestSumOfKElements.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\obj\Debug\06.BigestSumOfKElements.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\obj\Debug\06.BigestSumOfKElements.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\ArraysHomework\06.BigestSumOfKElements\obj\Debug\06.BigestSumOfKElements.pdb

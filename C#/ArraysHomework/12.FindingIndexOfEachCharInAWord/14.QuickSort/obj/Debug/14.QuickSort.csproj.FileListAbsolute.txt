@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\14.QuickSort\bin\Debug\14.QuickSort.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\14.QuickSort\bin\Debug\14.QuickSort.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\14.QuickSort\obj\Debug\14.QuickSort.pdb

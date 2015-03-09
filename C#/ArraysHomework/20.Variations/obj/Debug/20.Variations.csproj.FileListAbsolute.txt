@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\20.Variations\bin\Debug\20.Variations.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\20.Variations\bin\Debug\20.Variations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\20.Variations\bin\Debug\20.Variations.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\20.Variations\obj\Debug\20.Variations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\20.Variations\obj\Debug\20.Variations.pdb

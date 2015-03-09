@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\bin\Debug\12.FindingIndexOfEachCharInAWord.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\bin\Debug\12.FindingIndexOfEachCharInAWord.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\bin\Debug\12.FindingIndexOfEachCharInAWord.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\obj\Debug\12.FindingIndexOfEachCharInAWord.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\obj\Debug\12.FindingIndexOfEachCharInAWord.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\12.FindingIndexOfEachCharInAWord\obj\Debug\12.FindingIndexOfEachCharInAWord.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\19.Permutations\bin\Debug\19.Permutations.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\19.Permutations\bin\Debug\19.Permutations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\19.Permutations\bin\Debug\19.Permutations.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\19.Permutations\obj\Debug\19.Permutations.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\19.Permutations\obj\Debug\19.Permutations.pdb

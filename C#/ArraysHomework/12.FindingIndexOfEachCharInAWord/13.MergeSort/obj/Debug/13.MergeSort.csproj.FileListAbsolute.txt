@@ -1,0 +1,6 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\bin\Debug\13.MergeSort.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\bin\Debug\13.MergeSort.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\bin\Debug\13.MergeSort.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\obj\Debug\13.MergeSort.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\13.MergeSort\obj\Debug\13.MergeSort.pdb

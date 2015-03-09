@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\bin\Debug\01.InitialiseArray.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\bin\Debug\01.InitialiseArray.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\bin\Debug\01.InitialiseArray.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\obj\Debug\01.InitialiseArray.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\obj\Debug\01.InitialiseArray.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\01.InitialiseArray\obj\Debug\01.InitialiseArray.pdb

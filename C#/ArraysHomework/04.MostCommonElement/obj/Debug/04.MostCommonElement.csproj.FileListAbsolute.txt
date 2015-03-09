@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\bin\Debug\04.MostCommonElement.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\bin\Debug\04.MostCommonElement.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\bin\Debug\04.MostCommonElement.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\obj\Debug\04.MostCommonElement.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\obj\Debug\04.MostCommonElement.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\04.MostCommonElement\obj\Debug\04.MostCommonElement.csprojResolveAssemblyReference.cache

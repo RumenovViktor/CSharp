@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\bin\Debug\05.EncreasingElements.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\bin\Debug\05.EncreasingElements.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\bin\Debug\05.EncreasingElements.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\obj\Debug\05.EncreasingElements.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\obj\Debug\05.EncreasingElements.exe
+c:\users\viktor\documents\visual studio 2012\Projects\ArraysHomework\05.EncreasingElements\obj\Debug\05.EncreasingElements.pdb

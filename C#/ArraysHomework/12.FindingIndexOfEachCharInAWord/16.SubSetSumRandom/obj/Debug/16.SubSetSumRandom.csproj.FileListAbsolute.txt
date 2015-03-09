@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\16.SubSetSumRandom\bin\Debug\16.SubSetSumRandom.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\16.SubSetSumRandom\bin\Debug\16.SubSetSumRandom.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\16.SubSetSumRandom\bin\Debug\16.SubSetSumRandom.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\16.SubSetSumRandom\obj\Debug\16.SubSetSumRandom.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\16.SubSetSumRandom\obj\Debug\16.SubSetSumRandom.pdb

@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\17.KElementSubsetSum\bin\Debug\17.KElementSubsetSum.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\17.KElementSubsetSum\bin\Debug\17.KElementSubsetSum.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\17.KElementSubsetSum\bin\Debug\17.KElementSubsetSum.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\17.KElementSubsetSum\obj\Debug\17.KElementSubsetSum.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\17.KElementSubsetSum\obj\Debug\17.KElementSubsetSum.pdb

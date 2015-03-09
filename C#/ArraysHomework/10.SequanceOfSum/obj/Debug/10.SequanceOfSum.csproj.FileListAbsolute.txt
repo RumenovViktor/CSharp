@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\bin\Debug\10.SequanceOfSum.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\bin\Debug\10.SequanceOfSum.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\bin\Debug\10.SequanceOfSum.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\obj\Debug\10.SequanceOfSum.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\obj\Debug\10.SequanceOfSum.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\ArraysHomework\10.SequanceOfSum\obj\Debug\10.SequanceOfSum.csprojResolveAssemblyReference.cache

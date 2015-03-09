@@ -1,0 +1,5 @@
+C:\Users\Wetslap7\Desktop\FirstHomework\15.FindAllPrimes\bin\Debug\15.FindAllPrimes.exe.config
+C:\Users\Wetslap7\Desktop\FirstHomework\15.FindAllPrimes\bin\Debug\15.FindAllPrimes.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\15.FindAllPrimes\bin\Debug\15.FindAllPrimes.pdb
+C:\Users\Wetslap7\Desktop\FirstHomework\15.FindAllPrimes\obj\Debug\15.FindAllPrimes.exe
+C:\Users\Wetslap7\Desktop\FirstHomework\15.FindAllPrimes\obj\Debug\15.FindAllPrimes.pdb
