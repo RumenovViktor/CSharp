@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\bin\Debug\04.BinarySearchInMatrix.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\bin\Debug\04.BinarySearchInMatrix.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\bin\Debug\04.BinarySearchInMatrix.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\obj\Debug\04.BinarySearchInMatrix.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\obj\Debug\04.BinarySearchInMatrix.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04.BinarySearchInMatrix\obj\Debug\04.BinarySearchInMatrix.csprojResolveAssemblyReference.cache

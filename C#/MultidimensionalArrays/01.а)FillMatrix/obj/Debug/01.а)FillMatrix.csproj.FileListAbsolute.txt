@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\bin\Debug\01.а)FillMatrix.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\bin\Debug\01.а)FillMatrix.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\bin\Debug\01.а)FillMatrix.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\obj\Debug\01.а)FillMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\obj\Debug\01.а)FillMatrix.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.а)FillMatrix\obj\Debug\01.а)FillMatrix.pdb

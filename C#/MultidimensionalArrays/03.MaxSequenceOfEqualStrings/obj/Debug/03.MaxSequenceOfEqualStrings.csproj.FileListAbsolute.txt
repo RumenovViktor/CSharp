@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\bin\Debug\03.MaxSequenceOfEqualStrings.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\bin\Debug\03.MaxSequenceOfEqualStrings.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\bin\Debug\03.MaxSequenceOfEqualStrings.pdb
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\obj\Debug\03.MaxSequenceOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\obj\Debug\03.MaxSequenceOfEqualStrings.exe
+C:\Users\Viktor\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03.MaxSequenceOfEqualStrings\obj\Debug\03.MaxSequenceOfEqualStrings.pdb

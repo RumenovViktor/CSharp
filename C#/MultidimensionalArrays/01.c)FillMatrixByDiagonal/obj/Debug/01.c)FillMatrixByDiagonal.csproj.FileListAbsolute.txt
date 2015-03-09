@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\bin\Debug\01.c)FillMatrixByDiagonal.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\bin\Debug\01.c)FillMatrixByDiagonal.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\bin\Debug\01.c)FillMatrixByDiagonal.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\obj\Debug\01.c)FillMatrixByDiagonal.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\obj\Debug\01.c)FillMatrixByDiagonal.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\MultidimensionalArrays\01.c)FillMatrixByDiagonal\obj\Debug\01.c)FillMatrixByDiagonal.csprojResolveAssemblyReference.cache
