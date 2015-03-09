@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\bin\Debug\07.AllNumeralSystems.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\bin\Debug\07.AllNumeralSystems.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\bin\Debug\07.AllNumeralSystems.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\obj\Debug\07.AllNumeralSystems.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\obj\Debug\07.AllNumeralSystems.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\07.AllNumeralSystems\obj\Debug\07.AllNumeralSystems.pdb

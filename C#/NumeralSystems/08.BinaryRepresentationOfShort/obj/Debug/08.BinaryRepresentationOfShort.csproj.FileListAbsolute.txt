@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.pdb

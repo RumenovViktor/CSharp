@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.exe
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.exe
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.pdb

@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
+c:\users\viktor\documents\visual studio 2012\Projects\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb
