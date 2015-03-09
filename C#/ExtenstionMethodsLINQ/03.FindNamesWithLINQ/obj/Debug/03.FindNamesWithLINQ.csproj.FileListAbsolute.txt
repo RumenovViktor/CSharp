@@ -1,0 +1,2 @@
+C:\Users\Viktor\documents\visual studio 2013\Projects\ExtensionMethodsLINQDelegates\03.FindNamesWithLINQ\bin\Debug\03.FindNamesWithLINQ.exe.config
+C:\Users\Viktor\documents\visual studio 2013\Projects\ExtensionMethodsLINQDelegates\03.FindNamesWithLINQ\obj\Debug\03.FindNamesWithLINQ.csprojResolveAssemblyReference.cache

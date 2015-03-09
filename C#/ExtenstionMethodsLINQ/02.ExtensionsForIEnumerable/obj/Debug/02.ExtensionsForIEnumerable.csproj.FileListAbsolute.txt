@@ -1,0 +1,1 @@
+c:\users\viktor\documents\visual studio 2013\Projects\ExtensionMethodsLINQDelegates\02.ExtensionsForIEnumerable\bin\Debug\02.ExtensionsForIEnumerable.exe.config
