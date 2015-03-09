@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\GreedyDwarf\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TasksFromExams\MagicWords\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config

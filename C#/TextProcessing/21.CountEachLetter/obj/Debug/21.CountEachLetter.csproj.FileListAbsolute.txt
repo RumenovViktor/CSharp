@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\bin\Debug\21.CountEachLetter.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\bin\Debug\21.CountEachLetter.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\bin\Debug\21.CountEachLetter.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\obj\Debug\21.CountEachLetter.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\obj\Debug\21.CountEachLetter.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\21.CountEachLetter\obj\Debug\21.CountEachLetter.csprojResolveAssemblyReference.cache

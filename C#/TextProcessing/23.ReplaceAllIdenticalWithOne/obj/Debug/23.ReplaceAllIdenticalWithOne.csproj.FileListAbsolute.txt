@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\bin\Debug\23.ReplaceAllIdenticalWithOne.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\bin\Debug\23.ReplaceAllIdenticalWithOne.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\bin\Debug\23.ReplaceAllIdenticalWithOne.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\obj\Debug\23.ReplaceAllIdenticalWithOne.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\obj\Debug\23.ReplaceAllIdenticalWithOne.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\23.ReplaceAllIdenticalWithOne\obj\Debug\23.ReplaceAllIdenticalWithOne.pdb

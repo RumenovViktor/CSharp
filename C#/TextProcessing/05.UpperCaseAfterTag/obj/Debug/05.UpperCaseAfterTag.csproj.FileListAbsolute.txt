@@ -1,0 +1,11 @@
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\05.UpperCaseAfterTag\obj\Debug\05.UpperCaseAfterTag.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\05.UpperCaseAfterTag\obj\Debug\05.UpperCaseAfterTag.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\obj\Debug\05.UpperCaseAfterTag.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\obj\Debug\05.UpperCaseAfterTag.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\bin\Debug\05.UpperCaseAfterTag.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\05.UpperCaseAfterTag\obj\Debug\05.UpperCaseAfterTag.csprojResolveAssemblyReference.cache

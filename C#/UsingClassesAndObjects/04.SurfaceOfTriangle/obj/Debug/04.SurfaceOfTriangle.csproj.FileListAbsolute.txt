@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.pdb

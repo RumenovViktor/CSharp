@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\bin\Debug\Zerg.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\bin\Debug\Zerg.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\bin\Debug\Zerg.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\obj\Debug\Zerg.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Zerg\Zerg\obj\Debug\Zerg.pdb

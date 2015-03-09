@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\bin\Debug\06.CalculatingSumOfNumbersInAString.exe.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\bin\Debug\06.CalculatingSumOfNumbersInAString.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\bin\Debug\06.CalculatingSumOfNumbersInAString.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\obj\Debug\06.CalculatingSumOfNumbersInAString.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\obj\Debug\06.CalculatingSumOfNumbersInAString.exe
+C:\Users\Viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.CalculatingSumOfNumbersInAString\obj\Debug\06.CalculatingSumOfNumbersInAString.pdb

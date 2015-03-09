@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.exe
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.exe
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\UsingClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.csprojResolveAssemblyReference.cache

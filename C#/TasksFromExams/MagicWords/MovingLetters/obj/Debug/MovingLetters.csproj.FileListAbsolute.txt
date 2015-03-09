@@ -1,0 +1,5 @@
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\MovingLetters\bin\Debug\MovingLetters.exe.config
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\MovingLetters\bin\Debug\MovingLetters.exe
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\MovingLetters\bin\Debug\MovingLetters.pdb
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\MovingLetters\obj\Debug\MovingLetters.exe
+C:\Users\Viktor\documents\visual studio 2013\Projects\MagicWords\MovingLetters\obj\Debug\MovingLetters.pdb

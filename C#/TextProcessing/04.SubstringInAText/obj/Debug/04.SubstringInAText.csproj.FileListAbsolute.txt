@@ -1,0 +1,10 @@
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\04.SubstringInAText\obj\Debug\04.SubstringInAText.exe
+c:\users\viktor\documents\visual studio 2012\Projects\TextProcessing\04.SubstringInAText\obj\Debug\04.SubstringInAText.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\04.SubstringInAText\obj\Debug\04.SubstringInAText.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\04.SubstringInAText\obj\Debug\04.SubstringInAText.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\04.SubstringInAText\bin\Debug\04.SubstringInAText.pdb

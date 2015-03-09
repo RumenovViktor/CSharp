@@ -1,0 +1,6 @@
+C:\Users\Viktor\documents\visual studio 2013\Projects\GreedyDwarf\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+C:\Users\Viktor\documents\visual studio 2013\Projects\GreedyDwarf\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+C:\Users\Viktor\documents\visual studio 2013\Projects\GreedyDwarf\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+C:\Users\Viktor\documents\visual studio 2013\Projects\GreedyDwarf\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+C:\Users\Viktor\documents\visual studio 2013\Projects\GreedyDwarf\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\GreedyDwarf\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache

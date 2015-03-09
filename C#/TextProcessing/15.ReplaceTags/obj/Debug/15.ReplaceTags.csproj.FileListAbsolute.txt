@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

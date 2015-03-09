@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.pdb

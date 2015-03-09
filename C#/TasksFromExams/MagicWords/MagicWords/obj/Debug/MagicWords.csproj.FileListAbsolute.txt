@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\bin\Debug\MagicWords.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\bin\Debug\MagicWords.exe
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\bin\Debug\MagicWords.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\obj\Debug\MagicWords.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\obj\Debug\MagicWords.exe
+c:\users\viktor\documents\visual studio 2013\Projects\MagicWords\MagicWords\obj\Debug\MagicWords.pdb

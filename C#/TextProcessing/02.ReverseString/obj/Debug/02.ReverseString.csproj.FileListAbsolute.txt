@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\obj\Debug\02.ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\bin\Debug\13.ReverseWordsInText.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\bin\Debug\13.ReverseWordsInText.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\bin\Debug\13.ReverseWordsInText.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\obj\Debug\13.ReverseWordsInText.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\obj\Debug\13.ReverseWordsInText.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\13.ReverseWordsInText\obj\Debug\13.ReverseWordsInText.csprojResolveAssemblyReference.cache

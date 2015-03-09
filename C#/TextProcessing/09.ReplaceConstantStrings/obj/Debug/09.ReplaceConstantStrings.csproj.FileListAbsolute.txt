@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\bin\Debug\09.ReplaceConstantStrings.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\bin\Debug\09.ReplaceConstantStrings.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\bin\Debug\09.ReplaceConstantStrings.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\obj\Debug\09.ReplaceConstantStrings.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\obj\Debug\09.ReplaceConstantStrings.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\09.ReplaceConstantStrings\obj\Debug\09.ReplaceConstantStrings.pdb

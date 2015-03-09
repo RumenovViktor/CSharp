@@ -1,0 +1,1 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\TextProcessing\20.ExtractPalindroms\bin\Debug\20.ExtractPalindroms.exe.config
